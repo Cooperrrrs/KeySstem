@@ -1,2 +1,3 @@
-print(_G.Key)
 print("hi")
+print(_G.Key)
+
