@@ -53,5 +53,5 @@ TextButton.TextSize = 14.000
 
 TextButton.MouseButton1Click:Connect(function()
 	_G.Key = TextBox.Text
-	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Tyyuiss/Auto-Farmer/main/code.lua"),true))()
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Cooperrrrs/KeySstem/main/Check.Lua"),true))()
 end)
